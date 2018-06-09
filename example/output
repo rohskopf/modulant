@@ -1,0 +1,530 @@
+ +-----------------------------------------------------------------+
+ +                            NNP 0.0                              +
+ +-----------------------------------------------------------------+
+ Running on 1 procs
+ Reading PARAMS...
+ Calculating neighborlists...
+ Calculating descriptors...
+
+  2 radial descriptors for each interaction
+  3 angular descriptors for each interaction
+
+  4 radial descriptors for each atom
+  12 angular descriptors for each atom
+
+  16 total descriptors per atom
+
+2-body X-1 descriptor for atom 0 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 0 in config 0 = 1.004377!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 1 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 1 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 2 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 2 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 3 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 3 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 4 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 4 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 5 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 5 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 6 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 6 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 7 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 7 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 8 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 8 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 9 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 9 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 10 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 10 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 11 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 11 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 12 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 12 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 13 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 13 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 14 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 14 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 15 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 15 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 16 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 16 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 17 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 17 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 18 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 18 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 19 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 19 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 20 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 20 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 21 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 21 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 22 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 22 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 23 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 23 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 24 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 24 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 25 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 25 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 26 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 26 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 27 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 27 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 28 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 28 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 29 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 29 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 30 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 30 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 31 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 31 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 32 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 32 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 33 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 33 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 34 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 34 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 35 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 35 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 36 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 36 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 37 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 37 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 38 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 38 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 39 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 39 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 40 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 40 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 41 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 41 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 42 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 42 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 43 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 43 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 44 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 44 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 45 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 45 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 46 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 46 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 47 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 47 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 48 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 48 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 49 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 49 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 50 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 50 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 51 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 51 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 52 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 52 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 53 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 53 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 54 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 54 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 55 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 55 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 56 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 56 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 57 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 57 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 58 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 58 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 59 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 59 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 60 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 60 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 61 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 61 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 62 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 62 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 63 in config 0 = 0.000000!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 63 in config 0 = 1.004387!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 64 in config 0 = 1.041046!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 64 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 65 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 65 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 66 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 66 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 67 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 67 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 68 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 68 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 69 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 69 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 70 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 70 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 71 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 71 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 72 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 72 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 73 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 73 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 74 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 74 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 75 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 75 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 76 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 76 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 77 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 77 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 78 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 78 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 79 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 79 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 80 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 80 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 81 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 81 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 82 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 82 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 83 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 83 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 84 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 84 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 85 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 85 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 86 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 86 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 87 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 87 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 88 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 88 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 89 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 89 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 90 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 90 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 91 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 91 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 92 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 92 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 93 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 93 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 94 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 94 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 95 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 95 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 96 in config 0 = 1.043222!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 96 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 97 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 97 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 98 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 98 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 99 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 99 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 100 in config 0 = 1.043222!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 100 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 101 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 101 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 102 in config 0 = 1.036729!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 102 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 103 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 103 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 104 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 104 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 105 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 105 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 106 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 106 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 107 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 107 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 108 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 108 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 109 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 109 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 110 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 110 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 111 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 111 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 112 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 112 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 113 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 113 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 114 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 114 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 115 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 115 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 116 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 116 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 117 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 117 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 118 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 118 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 119 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 119 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 120 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 120 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 121 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 121 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 122 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 122 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 123 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 123 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 124 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 124 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 125 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 125 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 126 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 126 in config 0 = 0.000000!
+params: 1.100000 1.200000
+2-body X-1 descriptor for atom 127 in config 0 = 1.041058!
+params: 0.100000 0.200000
+2-body X-2 descriptor for atom 127 in config 0 = 0.000000!
+params: 1.100000 1.200000
+  Time Elapsed: 0.004599 sec.
+
