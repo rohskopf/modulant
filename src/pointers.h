@@ -12,29 +12,33 @@
 
 #include "mpi.h"
 
-#include "nn.h"
+#include "modulant.h"
 
-namespace NN_NS
+namespace MODULANT_NS
 {
     class Pointers
     {
     public:
-        Pointers(NN *ptr) :
-            nn(ptr),
+        Pointers(MLT *ptr) :
+            mlt(ptr),
             memory(ptr->memory),
+			error(ptr->error),
             timer(ptr->timer),
             input(ptr->input),
-            net(ptr->net)
+            systems(ptr->systems),
+			descriptor(ptr->descriptor)
             {}
 
         virtual ~Pointers() {}
 
     protected:
-        NN *nn;
+        MLT *mlt;
         Memory *&memory;
+		Error *&error;
         Timer *&timer;
         Input *&input;
-        Net *&net;
+        Systems *&systems;
+		Descriptor *&descriptor;
     };
 }
 

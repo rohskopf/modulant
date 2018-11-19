@@ -20,12 +20,12 @@
 #include <sys/time.h>
 #endif
 
-namespace NN_NS
+namespace MODULANT_NS
 {
     class Timer : protected Pointers
     {
     public:
-        Timer(class NN *);
+        Timer(class MLT *);
         ~Timer();
 
         void reset();

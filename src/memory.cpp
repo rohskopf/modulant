@@ -11,9 +11,9 @@
 
 #include "memory.h"
 
-using namespace NN_NS;
+using namespace MODULANT_NS;
 
-Memory::Memory(NN *nnp) : Pointers(nn) {}
+Memory::Memory(MLT *mlt) : Pointers(mlt) {}
 
 Memory::~Memory() {};
 

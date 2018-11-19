@@ -31,17 +31,18 @@ LIBS =
 .cpp.o:
 	${CXX} ${CXXFLAGS} -c $<
 
-PROG = nn
+PROG = mlt
 
-CXXSRC= nn.cpp main.cpp memory.cpp timer.cpp input.cpp net.cpp layer.cpp neuron.cpp
+CXXSRC= modulant.cpp main.cpp memory.cpp error.cpp timer.cpp input.cpp systems.cpp config.cpp descriptor.cpp \
+        layer.cpp neuron.cpp ann.cpp
 
 OBJS= ${CXXSRC:.cpp=.o}
 
-default: nn
+default: mlt
 
 all: ${PROG}
 
-nn: ${OBJS}
+mlt: ${OBJS}
 	${CXX} ${CXXFLAGS} -o $@ ${OBJS} ${LIBS} ${SOLIB}
 
 clean:

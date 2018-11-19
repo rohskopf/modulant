@@ -15,12 +15,12 @@
 #include <cstdlib>
 #include "pointers.h"
 
-namespace NN_NS
+namespace MODULANT_NS
 {
     class Memory: protected Pointers
     {
     public:
-        Memory(class NN *);
+        Memory(class MLT *);
         ~Memory();
 
         // allocator

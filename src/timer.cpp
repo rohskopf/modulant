@@ -14,9 +14,9 @@
 #include <iomanip>
 #include <ctime>
 
-using namespace NN_NS;
+using namespace MODULANT_NS;
 
-Timer::Timer(NN *nn): Pointers(nn)
+Timer::Timer(MLT *mlt): Pointers(mlt)
 {
 #if defined(WIN32) || defined(_WIN32)
     QueryPerformanceCounter(&time_ref);

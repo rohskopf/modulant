@@ -1,0 +1,2 @@
+cc   nnp.o   -o nnp
+<builtin>: recipe for target 'nnp' failed

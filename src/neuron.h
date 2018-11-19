@@ -22,7 +22,7 @@
 
 using namespace std;
 
-using namespace NN_NS;
+using namespace MODULANT_NS;
 
 class Neuron
 {
@@ -35,20 +35,43 @@ public:
     // Declare member functions
 
     void print();
-    void initialize(); // Allocate output weights
+    void initialize(); // Allocate output weights, and other stuff based on ANN type
+	void allocateDodi(int); // allocate derivatives of outputs wrt inputs
+	void allocateD2E(int);  // allocate network output derivatives wrt inputs
     void finalize(); // Deallocate output weights
 	void activate(); // Activation function
 	void dActivate(); // Derivative of activation function
+	void d2Activate(); // 2nd derivative of activation function
 
     int nnl=0; // number of neurons in next layer
+	int annType; // ANN type that this neuron is associated with
+	int neuronType; // 0 - normal activation neuron
+					// 1 - bias neuron
+	int type; // atom type that this neuron is associated with
+
     double *weights; // weights going out of neuron to next layer
-	double *dWeights; // incremental derivative of output weights
-    double output; // neuron output
+	double *nGradients; // numerical gradients
+	double *gradients; // backprop gradients
+	double *gradientsp; // backprop gradients per proc
+    double *dodi; // derivatives of output wrt inputs
+	double *dxdi; // derivatives of unactivated intput wrt network inputs
+	double *dSigma_dG; // derivatives of sigma wrt network inputs
+	double **d2e_dwdg; // derivatives of gradients wrt network inputs
+					   // d2e_dwdg[k][s] - derivative wrt kth weight and sth input
+	
+	double **test; // 2d test array
+
+	double output; // neuron output
 	double dOutput; // derivative of output
+	double d2Output; // 2nd derivative of output
 	double input; // sum of weighted inputs into neuron
     char activation; // activation function
 	double sigma; // error term
 
+	int n; // atom index
+	int l; // layer index
+	int j; // neuron index
+	int m; // config index
 
 };
 

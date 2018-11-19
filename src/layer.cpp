@@ -30,7 +30,7 @@
 
 using namespace std;
 
-using namespace NN_NS;
+using namespace MODULANT_NS;
 
 Layer::Layer()
 {

@@ -10,10 +10,10 @@
 
 #include <stdlib.h>
 #include <iostream>
-#include "nn.h"
+#include "modulant.h"
 #include "mpi.h"
 
-using namespace NN_NS;
+using namespace MODULANT_NS;
 
 int main(int argc, char **argv)
 {
@@ -21,11 +21,11 @@ int main(int argc, char **argv)
   /* Initialize MPI */
   MPI_Init(&argc,&argv);
 
-  /* Begin a NN instance */
-  NN *nn = new NN(argc, argv);
+  /* Begin a NNP instance */
+  MLT *mlt = new MLT(argc, argv);
 
   /* Delete the memory */
-  delete nn;
+  delete mlt;
 
   /* Close MPI */
   int MPI_Comm_free(MPI_Comm *comm);
