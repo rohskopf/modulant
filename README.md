@@ -1,5 +1,5 @@
 # Modulant
-**Modul**ar **a**tomistic **n**etwork **t**rainer
+***MODUL***ar ***A***tomistic ***N***etwork ***T***rainer
 
 Install the program by first editing the Makefile in src/ to your machine's specific needs.
 Then simply do 
