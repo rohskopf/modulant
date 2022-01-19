@@ -1,5 +1,5 @@
-# Modulant 0.0
-Modular atomistic network trainer
+# Modulant
+**Modul**ar **a**tomistic **n**etwork **t**rainer
 
 Install the program by first editing the Makefile in src/ to your machine's specific needs.
 Then simply do 
